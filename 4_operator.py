@@ -32,3 +32,15 @@ print("Modulus: ", mod)
 
 floor = num2 // num1 #2
 print("Floor division: ", floor)
+
+
+#relational operators 
+
+num1 = 500
+num2 = 600
+
+print(num1 > num2)
+print(num1 < num2)
+print(num1 == num2)
+print(num1 >= num2)
+print(num1 <= num2)
